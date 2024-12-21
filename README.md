@@ -4,7 +4,7 @@ A Simple AI model made by me Fabiano Oliveira, which consists of a linear regres
 
 ## TECHNOLOGIES
 
-Scikit-Learn
-Panda
-Jupyter Notebook
+Scikit-Learn,
+Panda,
+Jupyter Notebook,
 Python
